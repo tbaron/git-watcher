@@ -1,0 +1,14 @@
+{
+    "name": "git-watcher",
+    "version": "0.1.0",
+    "description": "A simple utility to synchronize git repositories for your organizations.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tbaron/git-watcher"
+    },
+    "dependencies": {
+        "async": "*",
+        "mkdirp": "*",
+        "request": "*"
+    }
+}
